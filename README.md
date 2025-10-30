@@ -41,17 +41,17 @@ git clone https://github.com/charithanjain/mern-crud-app.git
 
 
 ### 2️⃣ Go to the project folder
-cd mern-crud-app
+- cd mern-crud-app
 
 ### 3️⃣ Setup and run the backend
-cd backend
-npm install
-npm start
+- cd backend
+- npm install
+- npm start
 
 ### 4️⃣ Setup and run the frontend
-cd ../frontend
-npm install
-npm run dev
+- cd ../frontend
+- npm install
+- npm run dev
 
-✅ Backend runs on: http://localhost:5000
-✅ Frontend runs on: http://localhost:5173
+- ✅ Backend runs on: http://localhost:5000
+- ✅ Frontend runs on: http://localhost:5173
